@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Duo MA !
 
 
 - 🔭 I’m currently working on The Chinese University of Hong Kong，Shenzhen
@@ -7,6 +7,10 @@
 - 📫 Email: nanr9544@gmail.com
 - 💬 Wechat: shancuncon
 
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanguanma)](https://github.com/anuraghazra/github-readme-stats)
+-->
+<!--default theme:dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanguanma&show_icons=true&theme=tokyonight)
 <!--
 **shanguanma/shanguanma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

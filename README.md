@@ -9,8 +9,23 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanguanma)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanguanma&show_icons=true&theme=tokyonight) -->
 <!--default theme:dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanguanma&show_icons=true&theme=tokyonight)
+
+
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanguanma&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanguanma&layout=compact&langs_count=6"/>
+</div>
+
+![Profile views](https://gpvc.arturio.dev/shanguanma)  
+
+
+
+
+
+
 <!--
 **shanguanma/shanguanma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

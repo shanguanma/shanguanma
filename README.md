@@ -16,7 +16,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanguanma&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanguanma&layout=compact&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanguanma&theme=gruvbox&layout=compact&langs_count=6"/>
 </div>
 
 ![Profile views](https://gpvc.arturio.dev/shanguanma)  
